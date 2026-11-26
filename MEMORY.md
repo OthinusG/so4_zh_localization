@@ -15,3 +15,5 @@
 - The initial baseline had corrupted Japanese source text and font decoding artifacts in `05_cutscene_story` (579 rows), plus index drift in six cutscene packs (`0x100CE/E8/E9/EA/F3/F6`).
 - The baseline was replaced with the corrected extract from `/Users/wqin/Downloads/outputs`: 32,800 rows, `pc_source_id` realignment, zero `<G:>`/`<LG:>` glyphs, and 58 `translate_then_polish` rows.
 - `analysis/extraction_summary.json` records the extraction statistics; `README.md` documents the remediated root causes.
+- Completed translation queue of 14 rows across `01_system_menu` (11 rows), `02_field_ui` (2 rows), and `05_cutscene_story` (1 row) into `tsv/so4_working.tsv`. Standardized glossary entries recorded in `analysis/so4_glossary.json` and change record logged in `so4_modification_index.md`.
+

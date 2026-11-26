@@ -17248,7 +17248,7 @@ stable_id	module	workflow	zh_edit
 0223003A/000100C9/13	05_cutscene_story	polish	
 0223003A/000100C9/14	05_cutscene_story	polish	
 0223003A/000100C9/15	05_cutscene_story	polish	
-0223003A/000100CA/1	05_cutscene_story	translate_then_polish	
+0223003A/000100CA/1	05_cutscene_story	translate_then_polish	路西欧……
 0223003A/000100CA/2	05_cutscene_story	polish	
 0223003A/000100CA/3	05_cutscene_story	polish	
 0223003A/000100CA/4	05_cutscene_story	polish	
@@ -23708,8 +23708,8 @@ stable_id	module	workflow	zh_edit
 03210009/00000053/162021	02_field_ui	polish	
 03210009/00000053/162022	02_field_ui	polish	
 03210009/00000053/162023	02_field_ui	polish	
-03210009/00000053/162024	02_field_ui	translate_then_polish	
-03210009/00000053/162025	02_field_ui	translate_then_polish	
+03210009/00000053/162024	02_field_ui	translate_then_polish	重新排列
+03210009/00000053/162025	02_field_ui	translate_then_polish	存储设备切换
 03210009/00000053/163000	02_field_ui	polish	
 03210009/00000053/163001	02_field_ui	polish	
 03210009/00000053/163002	02_field_ui	polish	
@@ -25219,7 +25219,7 @@ stable_id	module	workflow	zh_edit
 04210009/00000022/1512	01_system_menu	polish	
 04210009/00000022/1513	01_system_menu	polish	
 04210009/00000022/1514	01_system_menu	polish	
-04210009/00000022/1515	01_system_menu	translate_then_polish	
+04210009/00000022/1515	01_system_menu	translate_then_polish	存储设备未连接或容量不足。\n是否仍要开始？
 04210009/00000022/1900	01_system_menu	polish	
 04210009/00000022/1901	01_system_menu	polish	
 04210009/00000022/1902	01_system_menu	polish	
@@ -25391,8 +25391,8 @@ stable_id	module	workflow	zh_edit
 04210009/00000022/6155	01_system_menu	polish	
 04210009/00000022/6400	01_system_menu	polish	
 04210009/00000022/6401	01_system_menu	polish	
-04210009/00000022/6402	01_system_menu	translate_then_polish	
-04210009/00000022/6403	01_system_menu	translate_then_polish	
+04210009/00000022/6402	01_system_menu	translate_then_polish	EMPTY
+04210009/00000022/6403	01_system_menu	translate_then_polish	FILE
 04210009/00000022/6500	01_system_menu	polish	
 04210009/00000022/6501	01_system_menu	polish	
 04210009/00000022/6502	01_system_menu	polish	
@@ -25403,12 +25403,12 @@ stable_id	module	workflow	zh_edit
 04210009/00000022/6604	01_system_menu	polish	
 04210009/00000022/6605	01_system_menu	polish	
 04210009/00000022/6606	01_system_menu	polish	
-04210009/00000022/6607	01_system_menu	translate_then_polish	
-04210009/00000022/6608	01_system_menu	translate_then_polish	
-04210009/00000022/6609	01_system_menu	translate_then_polish	
-04210009/00000022/6610	01_system_menu	translate_then_polish	
-04210009/00000022/6611	01_system_menu	translate_then_polish	
-04210009/00000022/6612	01_system_menu	translate_then_polish	
+04210009/00000022/6607	01_system_menu	translate_then_polish	存储设备读取失败。
+04210009/00000022/6608	01_system_menu	translate_then_polish	容量不足。\n请重新选择存储设备。
+04210009/00000022/6609	01_system_menu	translate_then_polish	正在检查。\n请勿关闭主机电源。\n请勿触碰正在处理的存储设备。
+04210009/00000022/6610	01_system_menu	translate_then_polish	未找到使用中的存储设备。\n请重新选择存储设备。
+04210009/00000022/6611	01_system_menu	translate_then_polish	已移除存有已登录玩家资料的存储设备。\n请重新连接存储设备，\n然后重新选择存储设备。
+04210009/00000022/6612	01_system_menu	translate_then_polish	是否继续游戏？\n若未连接存有已登录玩家资料的\n存储设备，将不会解除成就。
 04210009/00000022/7000	01_system_menu	polish	
 04210009/00000022/7001	01_system_menu	polish	
 04210009/00000022/7002	01_system_menu	polish	
@@ -26912,8 +26912,8 @@ stable_id	module	workflow	zh_edit
 04210009/000001E1/162021	01_system_menu	polish	
 04210009/000001E1/162022	01_system_menu	polish	
 04210009/000001E1/162023	01_system_menu	polish	
-04210009/000001E1/162024	01_system_menu	translate_then_polish	
-04210009/000001E1/162025	01_system_menu	translate_then_polish	
+04210009/000001E1/162024	01_system_menu	translate_then_polish	重新排列
+04210009/000001E1/162025	01_system_menu	translate_then_polish	存储设备切换
 04210009/000001E1/163000	01_system_menu	polish	
 04210009/000001E1/163001	01_system_menu	polish	
 04210009/000001E1/163002	01_system_menu	polish	

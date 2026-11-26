@@ -1,1 +1,18 @@
-{}
+{
+  "ストレ－ジ機器": {
+    "zh": "存储设备",
+    "note": "Standardized for PS3 storage device prompts (replaces older mixed forms '存储器'/'储存机器'/'存储')"
+  },
+  "並べ替え": {
+    "zh": "重新排列",
+    "note": "Sorting action command matching existing PC Chinese"
+  },
+  "ストレ－ジ機器切替": {
+    "zh": "存储设备切换",
+    "note": "Storage device toggle prompt in system menu and field UI"
+  },
+  "ルシオ": {
+    "zh": "路西欧",
+    "note": "Character name (Lucio / ルシオ・ティオニセス), aligned with PC Chinese translation"
+  }
+}

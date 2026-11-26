@@ -9,9 +9,14 @@
 - ~~Translate 35 PS3-only credits rows (`0221001E/00000001/190000`–`190034`).~~ Not needed; keep the original PS3 text.
 - ~~Translate 9 event/filename keys in `04_field_dialogue` (`0223001E/000000A7/55`–`65`).~~ Not needed; these are internal resource names such as `vm008_W00E01a` and stay unchanged.
 
-## 2. Translation queue (14 rows, 12 need Chinese)
+## 2. Translation queue (14 rows, completed)
 
-All rows below have an empty `pc_zh` and no usable PC Japanese source. Translate from `ps3_jp`, write the result to `zh_edit`, and keep the control tokens shown in the source (`\n`).
+All 14 rows have been translated and populated in `tsv/so4_working.tsv`, verified by `python3 scripts/verify_alignment.py` and indexed in `so4_modification_index.md`.
+
+- [x] `01_system_menu` (11 rows translated / filled)
+- [x] `02_field_ui` (2 rows translated / filled)
+- [x] `05_cutscene_story` (1 row translated / filled)
+
 
 ### `01_system_menu` (11 rows)
 
