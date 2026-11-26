@@ -2,7 +2,7 @@
 
 ## Scope and acceptance
 
-- Initialize the workspace from the supplied PS3 and PC extracts. The baseline files must retain their original contents and row order.
+- Initialize the workspace from the corrected PS3 and PC extracts (`pc_source_id` cross-scene realignment). The baseline files must retain their original contents and row order.
 - Assign one work row to every baseline stable ID. Route nonblank `pc_zh` to `polish`, remaining rows with Japanese text to `translate_then_polish`, and blank or whitespace-only rows to `no_source`.
 - Leave the Chinese override column empty at initialization. Verify full JSON/TSV equivalence, unique IDs, work row alignment, and workflow counts.
 
@@ -44,20 +44,20 @@ Ranges are 1-based record positions within each module after filtering the basel
 - [ ] Records 4001–5000 (1000 polish, 0 translate then polish, 0 placeholders)
 - [ ] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
 - [ ] Records 6001–7000 (999 polish, 0 translate then polish, 1 placeholders)
-- [ ] Records 7001–8000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 8001–9000 (986 polish, 14 translate then polish, 0 placeholders)
+- [ ] Records 7001–8000 (991 polish, 9 translate then polish, 0 placeholders)
+- [ ] Records 8001–9000 (1000 polish, 0 translate then polish, 0 placeholders)
 - [ ] Records 9001–10000 (1000 polish, 0 translate then polish, 0 placeholders)
 - [ ] Records 10001–10286 (286 polish, 0 translate then polish, 0 placeholders)
 
 ### `05_cutscene_story`
 
 - [ ] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 1001–2000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [ ] Records 1001–2000 (999 polish, 1 translate then polish, 0 placeholders)
 - [ ] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 3001–4000 (490 polish, 510 translate then polish, 0 placeholders)
-- [ ] Records 4001–5000 (928 polish, 69 translate then polish, 3 placeholders)
+- [ ] Records 3001–4000 (999 polish, 0 translate then polish, 1 placeholders)
+- [ ] Records 4001–5000 (998 polish, 0 translate then polish, 2 placeholders)
 - [ ] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 6001–6488 (488 polish, 0 translate then polish, 0 placeholders)
+- [ ] Records 6001–6469 (469 polish, 0 translate then polish, 0 placeholders)
 
 ### `06_world_system_misc`
 
