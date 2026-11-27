@@ -17,5 +17,7 @@
 - `analysis/extraction_summary.json` records the extraction statistics; `README.md` documents the remediated root causes.
 - Completed translation queue of 14 rows across `01_system_menu` (11 rows), `02_field_ui` (2 rows), and `05_cutscene_story` (1 row) into `tsv/so4_working.tsv`. Standardized glossary entries recorded in `analysis/so4_glossary.json` and change record logged in `so4_modification_index.md`.
 - Completed all 36 polish batches in `so4_localization_project_plan.md` across 6 modules (31,876 rows), verifying baseline Chinese preservation and full 32,800-record alignment.
+- Completed PS3-specific adaptation across system menus and control codes (238 overrides applied, total 252 active overrides in `so4_working.tsv`). Fixed 34 big-endian `<4014>` control tags, resolved 204 drifted system menu entries to exact PS3 source semantics, and updated PlayStation-compliant storage and trophy notifications.
+
 
 

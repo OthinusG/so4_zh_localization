@@ -317,23 +317,23 @@ stable_id	module	workflow	zh_edit
 0221001E/00000000/836	06_world_system_misc	polish	
 0221001E/00000000/837	06_world_system_misc	polish	
 0221001E/00000000/2000	06_world_system_misc	polish	
-0221001E/00000000/2001	06_world_system_misc	polish	
+0221001E/00000000/2001	06_world_system_misc	polish	脚本开关 <4014:0100> :
 0221001E/00000000/2002	06_world_system_misc	polish	
 0221001E/00000000/2003	06_world_system_misc	polish	
 0221001E/00000000/2004	06_world_system_misc	polish	
-0221001E/00000000/2005	06_world_system_misc	polish	
-0221001E/00000000/2006	06_world_system_misc	polish	
-0221001E/00000000/2007	06_world_system_misc	polish	
+0221001E/00000000/2005	06_world_system_misc	polish	 [   <4014:0200>   ] : <4014:0300>
+0221001E/00000000/2006	06_world_system_misc	polish	 <4014:0200> : [   <4014:0300>   ]
+0221001E/00000000/2007	06_world_system_misc	polish	BGM No. <4014:0400> / 现在 : <4014:0a00> / 循环次数 : <4014:0b00>
 0221001E/00000000/2008	06_world_system_misc	polish	
-0221001E/00000000/2009	06_world_system_misc	polish	
-0221001E/00000000/2010	06_world_system_misc	polish	
+0221001E/00000000/2009	06_world_system_misc	polish	声音 <4014:0500> : <4014:0600>
+0221001E/00000000/2010	06_world_system_misc	polish	敌方队伍No. : <4014:0700> / 队伍ID : <4014:0800> / 副ID :  <4014:0900>
 0221001E/00000000/2011	06_world_system_misc	polish	
 0221001E/00000000/2012	06_world_system_misc	polish	
 0221001E/00000000/2013	06_world_system_misc	polish	
 0221001E/00000000/2014	06_world_system_misc	polish	
 0221001E/00000000/2015	06_world_system_misc	polish	
 0221001E/00000000/2016	06_world_system_misc	polish	
-0221001E/00000000/2017	06_world_system_misc	polish	
+0221001E/00000000/2017	06_world_system_misc	polish	宝箱No. <4014:0500> :
 0221001E/00000000/2018	06_world_system_misc	polish	
 0221001E/00000000/2019	06_world_system_misc	polish	
 0221001E/00000000/2020	06_world_system_misc	polish	
@@ -349,12 +349,12 @@ stable_id	module	workflow	zh_edit
 0221001E/00000000/2030	06_world_system_misc	polish	
 0221001E/00000000/2031	06_world_system_misc	polish	
 0221001E/00000000/2032	06_world_system_misc	polish	
-0221001E/00000000/2033	06_world_system_misc	polish	
-0221001E/00000000/2034	06_world_system_misc	polish	
-0221001E/00000000/2035	06_world_system_misc	polish	
-0221001E/00000000/2036	06_world_system_misc	polish	
-0221001E/00000000/2037	06_world_system_misc	polish	
-0221001E/00000000/2038	06_world_system_misc	polish	
+0221001E/00000000/2033	06_world_system_misc	polish	地之戒指(<4014:7e00>/<4014:7f00>)
+0221001E/00000000/2034	06_world_system_misc	polish	水之戒指(<4014:7e00>/<4014:7f00>)
+0221001E/00000000/2035	06_world_system_misc	polish	火之戒指(<4014:7e00>/<4014:7f00>)
+0221001E/00000000/2036	06_world_system_misc	polish	风之戒指(<4014:7e00>/<4014:7f00>)
+0221001E/00000000/2037	06_world_system_misc	polish	雷之戒指(<4014:7e00>/<4014:7f00>)
+0221001E/00000000/2038	06_world_system_misc	polish	光之戒指(<4014:7e00>/<4014:7f00>)
 0221001E/00000000/2039	06_world_system_misc	polish	
 0221001E/00000000/2040	06_world_system_misc	polish	
 0221001E/00000000/2041	06_world_system_misc	polish	
@@ -7080,9 +7080,9 @@ stable_id	module	workflow	zh_edit
 0223001E/00000012/62	04_field_dialogue	polish	
 0223001E/00000012/63	04_field_dialogue	polish	
 0223001E/00000012/64	04_field_dialogue	polish	
-0223001E/00000012/65	04_field_dialogue	polish	
+0223001E/00000012/65	04_field_dialogue	polish	很遗憾……真可惜啊……\n但是!我们随时!\n等着你们的挑战!<4002>\p来，这是参加奖的斗技场币<4014:4200>枚。\n来吧。
 0223001E/00000012/66	04_field_dialogue	polish	
-0223001E/00000012/67	04_field_dialogue	polish	
+0223001E/00000012/67	04_field_dialogue	polish	恭喜恭喜!\n不愧是我看好的队伍♪<4002>\p斗技场币请收下吧!\n（硬币入手：<4014:4200>枚）
 0223001E/00000012/68	04_field_dialogue	polish	
 0223001E/00000012/69	04_field_dialogue	polish	
 0223001E/00000012/70	04_field_dialogue	polish	
@@ -12449,7 +12449,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000087/4	04_field_dialogue	polish	
 0223001E/00000087/5	04_field_dialogue	polish	
 0223001E/00000087/6	04_field_dialogue	polish	
-0223001E/00000087/7	04_field_dialogue	polish	
+0223001E/00000087/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000087/8	04_field_dialogue	polish	
 0223001E/00000087/9	04_field_dialogue	polish	
 0223001E/00000088/1	04_field_dialogue	polish	
@@ -12458,7 +12458,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000088/4	04_field_dialogue	polish	
 0223001E/00000088/5	04_field_dialogue	polish	
 0223001E/00000088/6	04_field_dialogue	polish	
-0223001E/00000088/7	04_field_dialogue	polish	
+0223001E/00000088/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000088/8	04_field_dialogue	polish	
 0223001E/00000088/9	04_field_dialogue	polish	
 0223001E/00000089/1	04_field_dialogue	polish	
@@ -12467,7 +12467,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000089/4	04_field_dialogue	polish	
 0223001E/00000089/5	04_field_dialogue	polish	
 0223001E/00000089/6	04_field_dialogue	polish	
-0223001E/00000089/7	04_field_dialogue	polish	
+0223001E/00000089/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000089/8	04_field_dialogue	polish	
 0223001E/00000089/9	04_field_dialogue	polish	
 0223001E/0000008A/1	04_field_dialogue	polish	
@@ -12476,7 +12476,7 @@ stable_id	module	workflow	zh_edit
 0223001E/0000008A/4	04_field_dialogue	polish	
 0223001E/0000008A/5	04_field_dialogue	polish	
 0223001E/0000008A/6	04_field_dialogue	polish	
-0223001E/0000008A/7	04_field_dialogue	polish	
+0223001E/0000008A/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/0000008A/8	04_field_dialogue	polish	
 0223001E/0000008A/9	04_field_dialogue	polish	
 0223001E/0000008B/1	04_field_dialogue	polish	
@@ -12485,7 +12485,7 @@ stable_id	module	workflow	zh_edit
 0223001E/0000008B/4	04_field_dialogue	polish	
 0223001E/0000008B/5	04_field_dialogue	polish	
 0223001E/0000008B/6	04_field_dialogue	polish	
-0223001E/0000008B/7	04_field_dialogue	polish	
+0223001E/0000008B/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/0000008B/8	04_field_dialogue	polish	
 0223001E/0000008B/9	04_field_dialogue	polish	
 0223001E/0000008C/1	04_field_dialogue	polish	
@@ -12494,7 +12494,7 @@ stable_id	module	workflow	zh_edit
 0223001E/0000008C/4	04_field_dialogue	polish	
 0223001E/0000008C/5	04_field_dialogue	polish	
 0223001E/0000008C/6	04_field_dialogue	polish	
-0223001E/0000008C/7	04_field_dialogue	polish	
+0223001E/0000008C/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/0000008C/8	04_field_dialogue	polish	
 0223001E/0000008C/9	04_field_dialogue	polish	
 0223001E/0000008D/1	04_field_dialogue	polish	
@@ -12503,7 +12503,7 @@ stable_id	module	workflow	zh_edit
 0223001E/0000008D/4	04_field_dialogue	polish	
 0223001E/0000008D/5	04_field_dialogue	polish	
 0223001E/0000008D/6	04_field_dialogue	polish	
-0223001E/0000008D/7	04_field_dialogue	polish	
+0223001E/0000008D/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/0000008D/8	04_field_dialogue	polish	
 0223001E/0000008D/9	04_field_dialogue	polish	
 0223001E/0000008E/1	04_field_dialogue	polish	
@@ -12512,7 +12512,7 @@ stable_id	module	workflow	zh_edit
 0223001E/0000008E/4	04_field_dialogue	polish	
 0223001E/0000008E/5	04_field_dialogue	polish	
 0223001E/0000008E/6	04_field_dialogue	polish	
-0223001E/0000008E/7	04_field_dialogue	polish	
+0223001E/0000008E/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/0000008E/8	04_field_dialogue	polish	
 0223001E/0000008E/9	04_field_dialogue	polish	
 0223001E/0000008F/1	04_field_dialogue	polish	
@@ -12521,7 +12521,7 @@ stable_id	module	workflow	zh_edit
 0223001E/0000008F/4	04_field_dialogue	polish	
 0223001E/0000008F/5	04_field_dialogue	polish	
 0223001E/0000008F/6	04_field_dialogue	polish	
-0223001E/0000008F/7	04_field_dialogue	polish	
+0223001E/0000008F/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/0000008F/8	04_field_dialogue	polish	
 0223001E/0000008F/9	04_field_dialogue	polish	
 0223001E/00000090/1	04_field_dialogue	polish	
@@ -12530,7 +12530,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000090/4	04_field_dialogue	polish	
 0223001E/00000090/5	04_field_dialogue	polish	
 0223001E/00000090/6	04_field_dialogue	polish	
-0223001E/00000090/7	04_field_dialogue	polish	
+0223001E/00000090/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000090/8	04_field_dialogue	polish	
 0223001E/00000090/9	04_field_dialogue	polish	
 0223001E/00000091/1	04_field_dialogue	polish	
@@ -12539,7 +12539,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000091/4	04_field_dialogue	polish	
 0223001E/00000091/5	04_field_dialogue	polish	
 0223001E/00000091/6	04_field_dialogue	polish	
-0223001E/00000091/7	04_field_dialogue	polish	
+0223001E/00000091/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000091/8	04_field_dialogue	polish	
 0223001E/00000091/9	04_field_dialogue	polish	
 0223001E/00000092/1	04_field_dialogue	polish	
@@ -12548,7 +12548,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000092/4	04_field_dialogue	polish	
 0223001E/00000092/5	04_field_dialogue	polish	
 0223001E/00000092/6	04_field_dialogue	polish	
-0223001E/00000092/7	04_field_dialogue	polish	
+0223001E/00000092/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000092/8	04_field_dialogue	polish	
 0223001E/00000092/9	04_field_dialogue	polish	
 0223001E/00000093/1	04_field_dialogue	polish	
@@ -12557,7 +12557,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000093/4	04_field_dialogue	polish	
 0223001E/00000093/5	04_field_dialogue	polish	
 0223001E/00000093/6	04_field_dialogue	polish	
-0223001E/00000093/7	04_field_dialogue	polish	
+0223001E/00000093/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000093/8	04_field_dialogue	polish	
 0223001E/00000093/9	04_field_dialogue	polish	
 0223001E/00000094/1	04_field_dialogue	polish	
@@ -12566,7 +12566,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000094/4	04_field_dialogue	polish	
 0223001E/00000094/5	04_field_dialogue	polish	
 0223001E/00000094/6	04_field_dialogue	polish	
-0223001E/00000094/7	04_field_dialogue	polish	
+0223001E/00000094/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000094/8	04_field_dialogue	polish	
 0223001E/00000094/9	04_field_dialogue	polish	
 0223001E/00000095/1	04_field_dialogue	polish	
@@ -12575,7 +12575,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000095/4	04_field_dialogue	polish	
 0223001E/00000095/5	04_field_dialogue	polish	
 0223001E/00000095/6	04_field_dialogue	polish	
-0223001E/00000095/7	04_field_dialogue	polish	
+0223001E/00000095/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000095/8	04_field_dialogue	polish	
 0223001E/00000095/9	04_field_dialogue	polish	
 0223001E/00000096/1	04_field_dialogue	polish	
@@ -12584,7 +12584,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000096/4	04_field_dialogue	polish	
 0223001E/00000096/5	04_field_dialogue	polish	
 0223001E/00000096/6	04_field_dialogue	polish	
-0223001E/00000096/7	04_field_dialogue	polish	
+0223001E/00000096/7	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000096/8	04_field_dialogue	polish	
 0223001E/00000096/9	04_field_dialogue	polish	
 0223001E/00000096/10	04_field_dialogue	polish	
@@ -12756,7 +12756,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000097/23	04_field_dialogue	polish	
 0223001E/00000097/24	04_field_dialogue	polish	
 0223001E/00000097/25	04_field_dialogue	polish	
-0223001E/00000097/26	04_field_dialogue	polish	
+0223001E/00000097/26	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000097/27	04_field_dialogue	polish	
 0223001E/00000097/28	04_field_dialogue	polish	
 0223001E/00000097/29	04_field_dialogue	polish	
@@ -12909,7 +12909,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000098/23	04_field_dialogue	polish	
 0223001E/00000098/24	04_field_dialogue	polish	
 0223001E/00000098/25	04_field_dialogue	polish	
-0223001E/00000098/26	04_field_dialogue	polish	
+0223001E/00000098/26	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000098/27	04_field_dialogue	polish	
 0223001E/00000098/28	04_field_dialogue	polish	
 0223001E/00000098/29	04_field_dialogue	polish	
@@ -13062,7 +13062,7 @@ stable_id	module	workflow	zh_edit
 0223001E/00000099/23	04_field_dialogue	polish	
 0223001E/00000099/24	04_field_dialogue	polish	
 0223001E/00000099/25	04_field_dialogue	polish	
-0223001E/00000099/26	04_field_dialogue	polish	
+0223001E/00000099/26	04_field_dialogue	polish	『奉上<4014:0100>的乔·石』
 0223001E/00000099/27	04_field_dialogue	polish	
 0223001E/00000099/28	04_field_dialogue	polish	
 0223001E/00000099/29	04_field_dialogue	polish	
@@ -25396,13 +25396,13 @@ stable_id	module	workflow	zh_edit
 04210009/00000022/6500	01_system_menu	polish	
 04210009/00000022/6501	01_system_menu	polish	
 04210009/00000022/6502	01_system_menu	polish	
-04210009/00000022/6600	01_system_menu	polish	
-04210009/00000022/6601	01_system_menu	polish	
+04210009/00000022/6600	01_system_menu	polish	保存游戏数据中。\n请勿切断主机电源。\n请勿触碰正在处理中的存储设备。
+04210009/00000022/6601	01_system_menu	polish	读取游戏数据中。\n请勿切断主机电源。\n请勿触碰正在处理中的存储设备。
 04210009/00000022/6602	01_system_menu	polish	
 04210009/00000022/6603	01_system_menu	polish	
-04210009/00000022/6604	01_system_menu	polish	
-04210009/00000022/6605	01_system_menu	polish	
-04210009/00000022/6606	01_system_menu	polish	
+04210009/00000022/6604	01_system_menu	polish	保存失败。
+04210009/00000022/6605	01_system_menu	polish	读取失败。
+04210009/00000022/6606	01_system_menu	polish	数据读取失败。
 04210009/00000022/6607	01_system_menu	translate_then_polish	存储设备读取失败。
 04210009/00000022/6608	01_system_menu	translate_then_polish	容量不足。\n请重新选择存储设备。
 04210009/00000022/6609	01_system_menu	translate_then_polish	正在检查。\n请勿关闭主机电源。\n请勿触碰正在处理的存储设备。
@@ -25558,158 +25558,158 @@ stable_id	module	workflow	zh_edit
 04210009/00000022/20120	01_system_menu	polish	
 04210009/00000022/20121	01_system_menu	polish	
 04210009/00000022/20122	01_system_menu	polish	
-04210009/00000022/20123	01_system_menu	polish	
+04210009/00000022/20123	01_system_menu	polish	面向新手的简单难度。\n不擅长星之海洋独自的实时战斗和\n动作类型游戏的玩家请选择\n这个。
 04210009/00000022/20124	01_system_menu	polish	
-04210009/00000022/20125	01_system_menu	polish	
-04210009/00000022/20126	01_system_menu	polish	
+04210009/00000022/20125	01_system_menu	polish	面向对技术有自信的玩家的区恶的难度。\n达成某个条件的人能享受这个。
+04210009/00000022/20126	01_system_menu	polish	为一些特定的玩家准备的究极的难度。\n挑战的时候要做好觉悟后再选择。
 04210009/00000022/20127	01_system_menu	polish	
 04210009/00000022/20128	01_system_menu	polish	
-04210009/00000022/20129	01_system_menu	polish	
-04210009/00000022/20130	01_system_menu	polish	
-04210009/00000022/20131	01_system_menu	polish	
-04210009/00000022/20132	01_system_menu	polish	
-04210009/00000022/20133	01_system_menu	polish	
+04210009/00000022/20129	01_system_menu	polish	不删除系统数据中的收藏数据，\n能继承收藏数据进行游玩。
+04210009/00000022/20130	01_system_menu	polish	完全删除系统数据中的收藏数据\n开始游戏。删除的收藏数据\n无法再次还原。
+04210009/00000022/20131	01_system_menu	polish	BEAT
+04210009/00000022/20132	01_system_menu	polish	请指定要移动的行星。
+04210009/00000022/20133	01_system_menu	polish	请指定要移动的地方。
 04210009/00000022/20134	01_system_menu	polish	
-04210009/00000022/20135	01_system_menu	polish	
-04210009/00000022/20136	01_system_menu	polish	
-04210009/00000022/20137	01_system_menu	polish	
-04210009/00000022/20138	01_system_menu	polish	
-04210009/00000022/20139	01_system_menu	polish	
-04210009/00000022/20140	01_system_menu	polish	
-04210009/00000022/20141	01_system_menu	polish	
-04210009/00000022/20142	01_system_menu	polish	
-04210009/00000022/20143	01_system_menu	polish	
-04210009/00000022/20144	01_system_menu	polish	
-04210009/00000022/20145	01_system_menu	polish	
-04210009/00000022/20146	01_system_menu	polish	
-04210009/00000022/20147	01_system_menu	polish	
-04210009/00000022/20148	01_system_menu	polish	
-04210009/00000022/20149	01_system_menu	polish	
-04210009/00000022/20150	01_system_menu	polish	
-04210009/00000022/20151	01_system_menu	polish	
-04210009/00000022/20152	01_system_menu	polish	
-04210009/00000022/20153	01_system_menu	polish	
-04210009/00000022/20154	01_system_menu	polish	
-04210009/00000022/20155	01_system_menu	polish	
-04210009/00000022/20156	01_system_menu	polish	
-04210009/00000022/20157	01_system_menu	polish	
-04210009/00000022/20158	01_system_menu	polish	
-04210009/00000022/20159	01_system_menu	polish	
-04210009/00000022/20160	01_system_menu	polish	
-04210009/00000022/20161	01_system_menu	polish	
-04210009/00000022/20162	01_system_menu	polish	
-04210009/00000022/20163	01_system_menu	polish	
-04210009/00000022/20164	01_system_menu	polish	
-04210009/00000022/20165	01_system_menu	polish	
-04210009/00000022/20166	01_system_menu	polish	
-04210009/00000022/20167	01_system_menu	polish	
-04210009/00000022/20168	01_system_menu	polish	
-04210009/00000022/20169	01_system_menu	polish	
-04210009/00000022/20170	01_system_menu	polish	
-04210009/00000022/20171	01_system_menu	polish	
-04210009/00000022/20172	01_system_menu	polish	
-04210009/00000022/20173	01_system_menu	polish	
-04210009/00000022/20174	01_system_menu	polish	
-04210009/00000022/20175	01_system_menu	polish	
+04210009/00000022/20135	01_system_menu	polish	在这里无法使用。
+04210009/00000022/20136	01_system_menu	polish	Skill List
+04210009/00000022/20137	01_system_menu	polish	斗技场币交换所
+04210009/00000022/20138	01_system_menu	polish	斗技场币不足。
+04210009/00000022/20139	01_system_menu	polish	和道具交换。
+04210009/00000022/20140	01_system_menu	polish	必要技能
+04210009/00000022/20141	01_system_menu	polish	Lv.
+04210009/00000022/20142	01_system_menu	polish	<NAME:0100:艾吉>无法移动。
+04210009/00000022/20143	01_system_menu	polish	交货数
+04210009/00000022/20144	01_system_menu	polish	LIST(买)
+04210009/00000022/20145	01_system_menu	polish	LIST(卖)
+04210009/00000022/20146	01_system_menu	polish	LIST(委托)
+04210009/00000022/20147	01_system_menu	polish	LIST(交货)
+04210009/00000022/20148	01_system_menu	polish	因为用户的个人设定，震动是关闭状态\n无法设定。
+04210009/00000022/20149	01_system_menu	polish	充能确认
+04210009/00000022/20150	01_system_menu	polish	要充能吗？
+04210009/00000022/20151	01_system_menu	polish	HP伤害
+04210009/00000022/20152	01_system_menu	polish	MP伤害
+04210009/00000022/20153	01_system_menu	polish	消费道具所持数
+04210009/00000022/20154	01_system_menu	polish	无法继续复制。
+04210009/00000022/20155	01_system_menu	polish	输入确认
+04210009/00000022/20156	01_system_menu	polish	输入错误\n名前中无法使用汉字和记号、全角英数字。
+04210009/00000022/20157	01_system_menu	polish	队伍SP用尽。\n会议结束。
+04210009/00000022/20158	01_system_menu	polish	结束了会议。
+04210009/00000022/20159	01_system_menu	polish	虽然错误\n名前不正确。
+04210009/00000022/20160	01_system_menu	polish	完成了高质量的道具!
+04210009/00000022/20161	01_system_menu	polish	又作成了1个!
+04210009/00000022/20162	01_system_menu	polish	奖励制作
+04210009/00000022/20163	01_system_menu	polish	组织·势力
+04210009/00000022/20164	01_system_menu	polish	行星·天体
+04210009/00000022/20165	01_system_menu	polish	无法继续持有。
+04210009/00000022/20166	01_system_menu	polish	素材不足。
+04210009/00000022/20167	01_system_menu	polish	角色选择
+04210009/00000022/20168	01_system_menu	polish	個人SP
+04210009/00000022/20169	01_system_menu	polish	配方
+04210009/00000022/20170	01_system_menu	polish	道具作成
+04210009/00000022/20171	01_system_menu	polish	待机成员
+04210009/00000022/20172	01_system_menu	polish	IC成员
+04210009/00000022/20173	01_system_menu	polish	IC能力值（个人）
+04210009/00000022/20174	01_system_menu	polish	IC能力值（团队）
+04210009/00000022/20175	01_system_menu	polish	参数变化
 04210009/00000022/20176	01_system_menu	polish	
 04210009/00000022/20177	01_system_menu	polish	
 04210009/00000022/20178	01_system_menu	polish	
-04210009/00000022/20179	01_system_menu	polish	
-04210009/00000022/20180	01_system_menu	polish	
-04210009/00000022/20181	01_system_menu	polish	
-04210009/00000022/20182	01_system_menu	polish	
-04210009/00000022/20183	01_system_menu	polish	
-04210009/00000022/20184	01_system_menu	polish	
-04210009/00000022/20185	01_system_menu	polish	
-04210009/00000022/20186	01_system_menu	polish	
-04210009/00000022/20187	01_system_menu	polish	
-04210009/00000022/20188	01_system_menu	polish	
-04210009/00000022/20189	01_system_menu	polish	
-04210009/00000022/20190	01_system_menu	polish	
-04210009/00000022/20191	01_system_menu	polish	
-04210009/00000022/20192	01_system_menu	polish	
-04210009/00000022/20193	01_system_menu	polish	
-04210009/00000022/20194	01_system_menu	polish	
-04210009/00000022/20195	01_system_menu	polish	
-04210009/00000022/20196	01_system_menu	polish	
-04210009/00000022/20197	01_system_menu	polish	
-04210009/00000022/20198	01_system_menu	polish	
-04210009/00000022/20199	01_system_menu	polish	
-04210009/00000022/20200	01_system_menu	polish	
+04210009/00000022/20179	01_system_menu	polish	+
+04210009/00000022/20180	01_system_menu	polish	开始前往目的地的移动。
+04210009/00000022/20181	01_system_menu	polish	对战对手
+04210009/00000022/20182	01_system_menu	polish	移动确认
+04210009/00000022/20183	01_system_menu	polish	这个队伍名已经被登录过了。
+04210009/00000022/20184	01_system_menu	polish	道具合成
+04210009/00000022/20185	01_system_menu	polish	宇宙飞船选择
+04210009/00000022/20186	01_system_menu	polish	武器选择
+04210009/00000022/20187	01_system_menu	polish	怪物选择
+04210009/00000022/20188	01_system_menu	polish	IC能力值（Group-1）
+04210009/00000022/20189	01_system_menu	polish	IC能力值（Group-2）
+04210009/00000022/20190	01_system_menu	polish	IC能力值（Group-3）
+04210009/00000022/20191	01_system_menu	polish	IC能力值（Group-4）
+04210009/00000022/20192	01_system_menu	polish	IC能力值（<NAME:0100:艾吉>）
+04210009/00000022/20193	01_system_menu	polish	IC能力值（<NAME:0200:蕾咪>）
+04210009/00000022/20194	01_system_menu	polish	IC能力值（<NAME:0300:菲伊斯>）
+04210009/00000022/20195	01_system_menu	polish	IC能力值（<NAME:0400:莉姆露>）
+04210009/00000022/20196	01_system_menu	polish	IC能力值（<NAME:0500:巴卡斯>）
+04210009/00000022/20197	01_system_menu	polish	IC能力值（<NAME:0600:梅莉可>）
+04210009/00000022/20198	01_system_menu	polish	IC能力值（<NAME:0700:莎莅>）
+04210009/00000022/20199	01_system_menu	polish	IC能力值（<NAME:0800:蜜利雅>）
+04210009/00000022/20200	01_system_menu	polish	IC能力值（<NAME:0900:耶鲁玛多>）
 04210009/00000022/20201	01_system_menu	polish	
 04210009/00000022/20202	01_system_menu	polish	
-04210009/00000022/20203	01_system_menu	polish	
-04210009/00000022/20204	01_system_menu	polish	
-04210009/00000022/20205	01_system_menu	polish	
-04210009/00000022/20206	01_system_menu	polish	
-04210009/00000022/20207	01_system_menu	polish	
-04210009/00000022/20208	01_system_menu	polish	
-04210009/00000022/20209	01_system_menu	polish	
-04210009/00000022/20210	01_system_menu	polish	
-04210009/00000022/20211	01_system_menu	polish	
-04210009/00000022/20212	01_system_menu	polish	
-04210009/00000022/20213	01_system_menu	polish	
-04210009/00000022/20214	01_system_menu	polish	
-04210009/00000022/20215	01_system_menu	polish	
-04210009/00000022/20216	01_system_menu	polish	
-04210009/00000022/20217	01_system_menu	polish	
-04210009/00000022/20218	01_system_menu	polish	
-04210009/00000022/20219	01_system_menu	polish	
-04210009/00000022/20220	01_system_menu	polish	
-04210009/00000022/20221	01_system_menu	polish	
-04210009/00000022/20222	01_system_menu	polish	
-04210009/00000022/20223	01_system_menu	polish	
-04210009/00000022/20224	01_system_menu	polish	
-04210009/00000022/20225	01_system_menu	polish	
+04210009/00000022/20203	01_system_menu	polish	确认
+04210009/00000022/20204	01_system_menu	polish	E
+04210009/00000022/20205	01_system_menu	polish	摆脱锁定演出
+04210009/00000022/20206	01_system_menu	polish	BGM音量
+04210009/00000022/20207	01_system_menu	polish	SE音量
+04210009/00000022/20208	01_system_menu	polish	事件声音音量
+04210009/00000022/20209	01_system_menu	polish	战斗声音音量
+04210009/00000022/20210	01_system_menu	polish	可变
+04210009/00000022/20211	01_system_menu	polish	进行摆脱锁定慢速演出的设定。
+04210009/00000022/20212	01_system_menu	polish	一直慢速演出。
+04210009/00000022/20213	01_system_menu	polish	慢速演出，但在演出中能用按键解除进行快进。
+04210009/00000022/20214	01_system_menu	polish	一直不慢速演出。
+04210009/00000022/20215	01_system_menu	polish	变更BGM的音量。
+04210009/00000022/20216	01_system_menu	polish	变更SE的音量。
+04210009/00000022/20217	01_system_menu	polish	变更事件声音的音量。
+04210009/00000022/20218	01_system_menu	polish	变更战斗声音的音量。
+04210009/00000022/20219	01_system_menu	polish	设定概要显示的有无。
+04210009/00000022/20220	01_system_menu	polish	交换确认
+04210009/00000022/20221	01_system_menu	polish	艾吉
+04210009/00000022/20222	01_system_menu	polish	·
+04210009/00000022/20223	01_system_menu	polish	因为网络连接的切断等理由、\n与服务器的连接超时，中止处理。
+04210009/00000022/20224	01_system_menu	polish	要重试吗？
+04210009/00000022/20225	01_system_menu	polish	要重置扬声器的位置吗？
 04210009/00000022/20226	01_system_menu	polish	
 04210009/00000022/20227	01_system_menu	polish	
 04210009/00000022/20228	01_system_menu	polish	
 04210009/00000022/20229	01_system_menu	polish	
-04210009/00000022/20230	01_system_menu	polish	
-04210009/00000022/20231	01_system_menu	polish	
-04210009/00000022/20232	01_system_menu	polish	
-04210009/00000022/20233	01_system_menu	polish	
-04210009/00000022/20234	01_system_menu	polish	
-04210009/00000022/20235	01_system_menu	polish	
-04210009/00000022/20236	01_system_menu	polish	
-04210009/00000022/20237	01_system_menu	polish	
-04210009/00000022/20238	01_system_menu	polish	
-04210009/00000022/20239	01_system_menu	polish	
-04210009/00000022/20240	01_system_menu	polish	
-04210009/00000022/20241	01_system_menu	polish	
-04210009/00000022/20242	01_system_menu	polish	
-04210009/00000022/20243	01_system_menu	polish	
-04210009/00000022/20244	01_system_menu	polish	
-04210009/00000022/20245	01_system_menu	polish	
-04210009/00000022/20246	01_system_menu	polish	
-04210009/00000022/20247	01_system_menu	polish	
-04210009/00000022/20248	01_system_menu	polish	
-04210009/00000022/20249	01_system_menu	polish	
-04210009/00000022/20250	01_system_menu	polish	
-04210009/00000022/20251	01_system_menu	polish	
-04210009/00000022/20252	01_system_menu	polish	
-04210009/00000022/20253	01_system_menu	polish	
-04210009/00000022/20254	01_system_menu	polish	
-04210009/00000022/20255	01_system_menu	polish	
-04210009/00000022/20256	01_system_menu	polish	
-04210009/00000022/20257	01_system_menu	polish	
-04210009/00000022/20258	01_system_menu	polish	
-04210009/00000022/20259	01_system_menu	polish	
-04210009/00000022/20260	01_system_menu	polish	
-04210009/00000022/20261	01_system_menu	polish	
-04210009/00000022/20262	01_system_menu	polish	
-04210009/00000022/20263	01_system_menu	polish	
-04210009/00000022/20264	01_system_menu	polish	
-04210009/00000022/20265	01_system_menu	polish	
-04210009/00000022/20266	01_system_menu	polish	
-04210009/00000022/20267	01_system_menu	polish	
-04210009/00000022/20268	01_system_menu	polish	
-04210009/00000022/20269	01_system_menu	polish	
-04210009/00000022/20270	01_system_menu	polish	
-04210009/00000022/20271	01_system_menu	polish	
-04210009/00000022/20272	01_system_menu	polish	
-04210009/00000022/20273	01_system_menu	polish	
-04210009/00000022/20274	01_system_menu	polish	
+04210009/00000022/20230	01_system_menu	polish	回到难度设定
+04210009/00000022/20231	01_system_menu	polish	就这样开始游戏
+04210009/00000022/20232	01_system_menu	polish	配方
+04210009/00000022/20233	01_system_menu	polish	结束会议
+04210009/00000022/20234	01_system_menu	polish	会议中止
+04210009/00000022/20235	01_system_menu	polish	怪物
+04210009/00000022/20236	01_system_menu	polish	购买商店的道具。
+04210009/00000022/20237	01_system_menu	polish	卖出所持道具。
+04210009/00000022/20238	01_system_menu	polish	交付委托的道具。
+04210009/00000022/20239	01_system_menu	polish	充能
+04210009/00000022/20240	01_system_menu	polish	其他
+04210009/00000022/20241	01_system_menu	polish	配方确认
+04210009/00000022/20242	01_system_menu	polish	任务确认
+04210009/00000022/20243	01_system_menu	polish	任务列表
+04210009/00000022/20244	01_system_menu	polish	窗口设计
+04210009/00000022/20245	01_system_menu	polish	设定营地窗口造型
+04210009/00000022/20246	01_system_menu	polish	语言设定
+04210009/00000022/20247	01_system_menu	polish	圣衣语言
+04210009/00000022/20248	01_system_menu	polish	日本语
+04210009/00000022/20249	01_system_menu	polish	English
+04210009/00000022/20250	01_system_menu	polish	文本语言
+04210009/00000022/20251	01_system_menu	polish	日本语
+04210009/00000022/20252	01_system_menu	polish	English
+04210009/00000022/20253	01_system_menu	polish	Francais
+04210009/00000022/20254	01_system_menu	polish	Deutsch
+04210009/00000022/20255	01_system_menu	polish	Italiano
+04210009/00000022/20256	01_system_menu	polish	Espanol
+04210009/00000022/20257	01_system_menu	polish	British
+04210009/00000022/20258	01_system_menu	polish	设定声音的语言。
+04210009/00000022/20259	01_system_menu	polish	声音的语言为日本语。
+04210009/00000022/20260	01_system_menu	polish	声音的语言为英语。
+04210009/00000022/20261	01_system_menu	polish	设定文本的语言。
+04210009/00000022/20262	01_system_menu	polish	文本的语言为日本语。
+04210009/00000022/20263	01_system_menu	polish	文本的语言为英语。
+04210009/00000022/20264	01_system_menu	polish	文本的语言为法语。
+04210009/00000022/20265	01_system_menu	polish	文本的语言为德语。
+04210009/00000022/20266	01_system_menu	polish	文本的语言为意大利语。
+04210009/00000022/20267	01_system_menu	polish	文本的语言为西班牙语。
+04210009/00000022/20268	01_system_menu	polish	文本的语言为英国英语。
+04210009/00000022/20269	01_system_menu	polish	类型1
+04210009/00000022/20270	01_system_menu	polish	类型2
+04210009/00000022/20271	01_system_menu	polish	窗口风格变更为类型1。
+04210009/00000022/20272	01_system_menu	polish	窗口风格变更为类型2。
+04210009/00000022/20273	01_system_menu	polish	场地使用可能
+04210009/00000022/20274	01_system_menu	polish	返回标题
 04210009/00000022/20275	01_system_menu	polish	
 04210009/00000022/20276	01_system_menu	polish	
 04210009/00000022/20277	01_system_menu	polish	
@@ -26905,13 +26905,13 @@ stable_id	module	workflow	zh_edit
 04210009/000001E1/162014	01_system_menu	polish	
 04210009/000001E1/162015	01_system_menu	polish	
 04210009/000001E1/162016	01_system_menu	polish	
-04210009/000001E1/162017	01_system_menu	polish	
-04210009/000001E1/162018	01_system_menu	polish	
-04210009/000001E1/162019	01_system_menu	polish	
+04210009/000001E1/162017	01_system_menu	polish	存储设备切换
+04210009/000001E1/162018	01_system_menu	polish	切换显示
+04210009/000001E1/162019	01_system_menu	polish	重新排列
 04210009/000001E1/162020	01_system_menu	polish	
 04210009/000001E1/162021	01_system_menu	polish	
-04210009/000001E1/162022	01_system_menu	polish	
-04210009/000001E1/162023	01_system_menu	polish	
+04210009/000001E1/162022	01_system_menu	polish	切换显示
+04210009/000001E1/162023	01_system_menu	polish	减少
 04210009/000001E1/162024	01_system_menu	translate_then_polish	重新排列
 04210009/000001E1/162025	01_system_menu	translate_then_polish	存储设备切换
 04210009/000001E1/163000	01_system_menu	polish	
@@ -27018,69 +27018,69 @@ stable_id	module	workflow	zh_edit
 04210009/00000322/66	01_system_menu	polish	
 04210009/00000322/67	01_system_menu	polish	
 04210009/00000322/68	01_system_menu	polish	
-04210009/00000322/69	01_system_menu	polish	
-04210009/00000322/70	01_system_menu	polish	
-04210009/00000322/71	01_system_menu	polish	
+04210009/00000322/69	01_system_menu	polish	MAX
+04210009/00000322/70	01_system_menu	polish	NEXT
+04210009/00000322/71	01_system_menu	polish	NEW
 04210009/00000322/72	01_system_menu	polish	
 04210009/00000322/73	01_system_menu	polish	
-04210009/00000322/74	01_system_menu	polish	
-04210009/00000322/75	01_system_menu	polish	
-04210009/00000322/76	01_system_menu	polish	
+04210009/00000322/74	01_system_menu	polish	LV
+04210009/00000322/75	01_system_menu	polish	HP
+04210009/00000322/76	01_system_menu	polish	MP
 04210009/00000322/77	01_system_menu	polish	
-04210009/00000322/78	01_system_menu	polish	
+04210009/00000322/78	01_system_menu	polish	DEF
 04210009/00000322/79	01_system_menu	polish	
 04210009/00000322/80	01_system_menu	polish	
-04210009/00000322/81	01_system_menu	polish	
-04210009/00000322/82	01_system_menu	polish	
-04210009/00000322/83	01_system_menu	polish	
-04210009/00000322/84	01_system_menu	polish	
-04210009/00000322/85	01_system_menu	polish	
-04210009/00000322/86	01_system_menu	polish	
-04210009/00000322/87	01_system_menu	polish	
-04210009/00000322/88	01_system_menu	polish	
-04210009/00000322/89	01_system_menu	polish	
-04210009/00000322/90	01_system_menu	polish	
+04210009/00000322/81	01_system_menu	polish	GRD
+04210009/00000322/82	01_system_menu	polish	CP
+04210009/00000322/83	01_system_menu	polish	SP
+04210009/00000322/84	01_system_menu	polish	Empty
+04210009/00000322/85	01_system_menu	polish	(无)
+04210009/00000322/86	01_system_menu	polish	取下装备。
+04210009/00000322/87	01_system_menu	polish	检测到已登录其他玩家资料。\n即将返回标题画面。
+04210009/00000322/88	01_system_menu	polish	警告
+04210009/00000322/89	01_system_menu	polish	伤害
+04210009/00000322/90	01_system_menu	polish	消费MP
 04210009/00000322/91	01_system_menu	polish	
 04210009/00000322/92	01_system_menu	polish	
-04210009/00000322/93	01_system_menu	polish	
-04210009/00000322/94	01_system_menu	polish	
-04210009/00000322/95	01_system_menu	polish	
-04210009/00000322/96	01_system_menu	polish	
-04210009/00000322/97	01_system_menu	polish	
-04210009/00000322/98	01_system_menu	polish	
-04210009/00000322/99	01_system_menu	polish	
-04210009/00000322/100	01_system_menu	polish	
-04210009/00000322/101	01_system_menu	polish	
-04210009/00000322/102	01_system_menu	polish	
-04210009/00000322/103	01_system_menu	polish	
-04210009/00000322/104	01_system_menu	polish	
-04210009/00000322/105	01_system_menu	polish	
+04210009/00000322/93	01_system_menu	polish	-R
+04210009/00000322/94	01_system_menu	polish	的参数
+04210009/00000322/95	01_system_menu	polish	速度
+04210009/00000322/96	01_system_menu	polish	加速
+04210009/00000322/97	01_system_menu	polish	耐力
+04210009/00000322/98	01_system_menu	polish	拿出速度派
+04210009/00000322/99	01_system_menu	polish	拿出加速装置派
+04210009/00000322/100	01_system_menu	polish	拿出耐力派
+04210009/00000322/101	01_system_menu	polish	拿出奇迹派
+04210009/00000322/102	01_system_menu	polish	还是算了
+04210009/00000322/103	01_system_menu	polish	要重新挑战吗？
+04210009/00000322/104	01_system_menu	polish	重新挑战
+04210009/00000322/105	01_system_menu	polish	注意
 04210009/00000322/106	01_system_menu	polish	
-04210009/00000322/107	01_system_menu	polish	
-04210009/00000322/108	01_system_menu	polish	
-04210009/00000322/109	01_system_menu	polish	
-04210009/00000322/110	01_system_menu	polish	
-04210009/00000322/111	01_system_menu	polish	
-04210009/00000322/112	01_system_menu	polish	
-04210009/00000322/113	01_system_menu	polish	
-04210009/00000322/114	01_system_menu	polish	
-04210009/00000322/115	01_system_menu	polish	
-04210009/00000322/116	01_system_menu	polish	
-04210009/00000322/117	01_system_menu	polish	
-04210009/00000322/118	01_system_menu	polish	
-04210009/00000322/119	01_system_menu	polish	
-04210009/00000322/120	01_system_menu	polish	
-04210009/00000322/121	01_system_menu	polish	
-04210009/00000322/122	01_system_menu	polish	
-04210009/00000322/123	01_system_menu	polish	
-04210009/00000322/124	01_system_menu	polish	
-04210009/00000322/125	01_system_menu	polish	
-04210009/00000322/126	01_system_menu	polish	
-04210009/00000322/127	01_system_menu	polish	
-04210009/00000322/128	01_system_menu	polish	
-04210009/00000322/129	01_system_menu	polish	
-04210009/00000322/130	01_system_menu	polish	
-04210009/00000322/131	01_system_menu	polish	
+04210009/00000322/107	01_system_menu	polish	取消技能。
+04210009/00000322/108	01_system_menu	polish	强度排序(装备)
+04210009/00000322/109	01_system_menu	polish	HP伤害
+04210009/00000322/110	01_system_menu	polish	MP伤害
+04210009/00000322/111	01_system_menu	polish	个别清单
+04210009/00000322/112	01_system_menu	polish	最大HP
+04210009/00000322/113	01_system_menu	polish	什么都没有设置。
+04210009/00000322/114	01_system_menu	polish	什么都没有装备。
+04210009/00000322/115	01_system_menu	polish	最大MP
+04210009/00000322/116	01_system_menu	polish	正在向玩家资料写入通关信息。
+04210009/00000322/117	01_system_menu	polish	因存有玩家资料的存储设备未连接或容量不足等原因，无法使用玩家资料。\n若继续进行游戏，可能无法正常解除奖杯或保存系统数据。
+04210009/00000322/118	01_system_menu	polish	检测到已退出登录。\n即将返回标题画面。
+04210009/00000322/119	01_system_menu	polish	要将通关标志保存到系统存档中吗？
+04210009/00000322/120	01_system_menu	polish	不(返回最后保存的情报)
+04210009/00000322/121	01_system_menu	polish	保存失败。\n请确认已连接存有玩家资料的存储设备。
+04210009/00000322/122	01_system_menu	polish	因存有玩家资料的存储设备容量不足或无法使用，\n未能解除奖杯。
+04210009/00000322/123	01_system_menu	polish	FOL
+04210009/00000322/124	01_system_menu	polish	HPMP
+04210009/00000322/125	01_system_menu	polish	：
+04210009/00000322/126	01_system_menu	polish	ATK排序
+04210009/00000322/127	01_system_menu	polish	INT排序
+04210009/00000322/128	01_system_menu	polish	DEF排序
+04210009/00000322/129	01_system_menu	polish	<4030>可以吗?
+04210009/00000322/130	01_system_menu	polish	<4032>可以吗?
+04210009/00000322/131	01_system_menu	polish	确认
 04210009/00000322/132	01_system_menu	polish	
 04210009/00000322/133	01_system_menu	polish	
 04210009/00000322/134	01_system_menu	polish	
