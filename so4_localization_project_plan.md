@@ -60,60 +60,60 @@ All 14 rows have been translated and populated in `tsv/so4_working.tsv`, verifie
 3. Run `python3 scripts/verify_alignment.py`.
 4. Record the edited stable IDs in `so4_modification_index.md`.
 
-## 3. Polish queue (31,876 rows, 0 batches completed)
+## 3. Polish queue (31,876 rows, 36 batches completed)
 
 Use the PC Chinese as the base, compare `ps3_jp` when `jp_same` is false and `controls_ps3` when `ctrl_same` is false. Ranges are 1-based record positions within each module after filtering the baseline in its original order. Each batch contains at most 1,000 records. Batches that still contain translation rows are marked.
 
 ### `01_system_menu`
 
-- [ ] Records 1–1000 (991 polish, 9 translate then polish, 0 placeholders) — includes translation rows above
-- [ ] Records 1001–2000 (997 polish, 2 translate then polish, 1 placeholders) — includes translation rows above
-- [ ] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 3001–4000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 4001–5000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 6001–7000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 7001–7650 (650 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1–1000 (991 polish, 9 translate then polish, 0 placeholders) — includes translation rows above
+- [x] Records 1001–2000 (997 polish, 2 translate then polish, 1 placeholders) — includes translation rows above
+- [x] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 3001–4000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 4001–5000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 6001–7000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 7001–7650 (650 polish, 0 translate then polish, 0 placeholders)
 
 ### `02_field_ui`
 
-- [ ] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 1001–1691 (689 polish, 2 translate then polish, 0 placeholders) — includes translation rows above
+- [x] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1001–1691 (689 polish, 2 translate then polish, 0 placeholders) — includes translation rows above
 
 ### `03_battle_skill_002C`
 
-- [ ] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 1001–1167 (167 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1001–1167 (167 polish, 0 translate then polish, 0 placeholders)
 
 ### `04_field_dialogue`
 
-- [ ] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 1001–2000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 3001–4000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 4001–5000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 6001–7000 (999 polish, 0 translate then polish, 1 placeholders)
-- [ ] Records 7001–8000 (991 polish, 9 translate then polish, 0 placeholders) — 9 rows are filename keys, excluded from translation
-- [ ] Records 8001–9000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 9001–10000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 10001–10286 (286 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1001–2000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 3001–4000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 4001–5000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 6001–7000 (999 polish, 0 translate then polish, 1 placeholders)
+- [x] Records 7001–8000 (991 polish, 9 translate then polish, 0 placeholders) — 9 rows are filename keys, excluded from translation
+- [x] Records 8001–9000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 9001–10000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 10001–10286 (286 polish, 0 translate then polish, 0 placeholders)
 
 ### `05_cutscene_story`
 
-- [ ] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 1001–2000 (999 polish, 1 translate then polish, 0 placeholders) — includes the `ルシオ……` row
-- [ ] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 3001–4000 (999 polish, 0 translate then polish, 1 placeholders)
-- [ ] Records 4001–5000 (998 polish, 0 translate then polish, 2 placeholders)
-- [ ] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 6001–6469 (469 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1001–2000 (999 polish, 1 translate then polish, 0 placeholders) — includes the `ルシオ……` row
+- [x] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 3001–4000 (999 polish, 0 translate then polish, 1 placeholders)
+- [x] Records 4001–5000 (998 polish, 0 translate then polish, 2 placeholders)
+- [x] Records 5001–6000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 6001–6469 (469 polish, 0 translate then polish, 0 placeholders)
 
 ### `06_world_system_misc`
 
-- [ ] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 1001–2000 (965 polish, 35 translate then polish, 0 placeholders) — 35 credits rows, excluded from translation
-- [ ] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
-- [ ] Records 3001–4000 (692 polish, 0 translate then polish, 308 placeholders)
-- [ ] Records 4001–5000 (975 polish, 0 translate then polish, 25 placeholders)
-- [ ] Records 5001–5537 (9 polish, 0 translate then polish, 528 placeholders)
+- [x] Records 1–1000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 1001–2000 (965 polish, 35 translate then polish, 0 placeholders) — 35 credits rows, excluded from translation
+- [x] Records 2001–3000 (1000 polish, 0 translate then polish, 0 placeholders)
+- [x] Records 3001–4000 (692 polish, 0 translate then polish, 308 placeholders)
+- [x] Records 4001–5000 (975 polish, 0 translate then polish, 25 placeholders)
+- [x] Records 5001–5537 (9 polish, 0 translate then polish, 528 placeholders)
